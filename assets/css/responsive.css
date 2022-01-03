@@ -583,7 +583,7 @@
   }
 
   .team-section .single-team .image .shape {
-    width: auto;
+    width: 100%;
   }
 
   .team-section .single-team .image {
