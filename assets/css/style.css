@@ -7815,3 +7815,13 @@ select:focus {
   color: white;
   font-weight: bold;
 }
+
+.roadmap-completed {
+  color:green;
+  text-decoration:line-through;
+}
+
+.roadmap-completed  .list-emphasized {
+  color: #6a6a6a;
+}
+
